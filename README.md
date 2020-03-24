@@ -8,11 +8,12 @@ npm install
 
 ```
 
-Y para construir el build, recuerden:
+Y para construir el build, recuerden: ebb
 
 ```
 
 npm run build
 
 ```
+
 
